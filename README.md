@@ -5,7 +5,7 @@ Repository for Medior project! Automatically sort, rename, and keep your TV coll
 
 Medior is a side project of mine, not meant for redistribution or sale.
 
-
+<pre>
 Recommended settings:
 	INSERT INTO `settings` (`name`, `value`) VALUES
 	('episode_format', '[%02dx%02d] %s'),
